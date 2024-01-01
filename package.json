@@ -16,7 +16,11 @@
   ],
   "author": "Tonmoy Islam",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
+    "@types/node": "^20.10.6",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
